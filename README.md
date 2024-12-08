@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi there 👋 I'am Matvei Bortsov - Python developer.
 
-<!--
-**MattBortsov/MattBortsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 **Python Developer** with experience in web development, internet marketing, and SEO.  
+- 🌐 Skilled in **HTML**, **CSS**, and **data analysis** for optimizing marketing strategies.  
+- 🤖 Passionate about **artificial intelligence** and **machine learning** for solving business challenges.  
+- ⚙️ Exploring **DevOps**, infrastructure design, and system administration.  
+- 📈 Focused on creating high-tech solutions using Python and AI.
+
+---
+
+### 🛠️ Tech Stack:
+
+- **Languages:** Python, SQL  
+- **Tools:** Docker, Nginx, Git, PostgreSQL  
+- **Areas of Interest:** AI, DevOps, Web Development, Automation  
+
+---
+
+### 📫 Connect with Me:
+
+- [LinkedIn](https://www.linkedin.com/in/matt-bortsov)  
+- [Telegram](https://t.me/Bortsov_Mt)  
+- Email: bm@dabreeze.ru  
+
+---
+
+### 🎯 My Goals:
+
+1. Develop projects leveraging AI to optimize business processes.  
+2. Deepen expertise in DevOps and infrastructure automation.  
+3. Build efficient and scalable solutions for real-world challenges.
+
+---
+
+✨ Thank you for visiting my profile!
+
