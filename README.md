@@ -15,8 +15,8 @@
 ### 🛠️ Tech Stack:
 
 - **Languages:** Python, SQL  
-- **Tools:** Docker, Nginx, Git, PostgreSQL  
-- **Areas of Interest:** AI, DevOps, Web Development, Automation  
+- **Tools:** Django, DRF, Docker, Nginx, Git, PostgreSQL  
+- **Areas of Interest:** AI, DevOps 
 
 ---
 
